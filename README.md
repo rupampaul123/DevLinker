@@ -85,5 +85,5 @@ src/
  Shareable profile links (QR / clipboard)
 
 ## 🧑 Author
-Built by Rupam Paul — 2nd-year CS student passionate about React, UI, and clean code.
+Built by Rupam Paul — 1st-year CS student passionate about React, UI, and clean code.
 
