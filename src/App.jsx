@@ -1,7 +1,7 @@
 import './App.css'
 import Home from './pages/Home/Home'
 import Card from './pages/Card/Card';
-import Work from './components/work';
+import Work from './components/Work';
 import {  RouterProvider, createHashRouter } from 'react-router-dom';
 
 function App() {
