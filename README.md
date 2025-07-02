@@ -31,6 +31,7 @@ DevLinker is a minimalist React application that lets developers generate and di
 ![image](https://github.com/user-attachments/assets/a30bb949-92ed-4d36-8870-58202f5906ca)
 
 
+## 📁 Folder Structure
 
 ```bash
 src/
