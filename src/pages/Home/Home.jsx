@@ -3,6 +3,7 @@ import Particles from "../../components/Particles";
 import Stepper, { Step } from "../../components/Stepper";
 import { Footer1 } from "../../components/Footer";
 
+
 export default function Home() {
   return (
     <>
